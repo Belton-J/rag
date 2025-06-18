@@ -1,0 +1,5 @@
+__pycache__/
+faiss_index/
+temp_uploads/
+.env
+rag/
